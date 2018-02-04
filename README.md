@@ -1,2 +1,2 @@
 # Portal-Effect
-An example project where the player can travel through portals, similar to the Portal game series
+An example project demonstrating a portal effect. The player can travel through two portals, similar to the Portal game series
